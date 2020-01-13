@@ -9,8 +9,8 @@
 > [Project Git Repository](https://github.com/creaton60)
   
 
-#### Jo.  `스스로를 소개해보세요.`
-> [Project Git Repository](https://github.com/)
+#### Jo.  `개인 블로그 한번 만들어 보려고 합니다.`
+> [Project Git Repository](https://github.com/snustcice/snustcice.github.io)
   
 
 #### Choi.  `스스로를 소개해보세요.`
