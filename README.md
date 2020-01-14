@@ -13,8 +13,8 @@
 > [Project Git Repository](https://github.com/snustcice/snustcice.github.io)
   
 
-#### Choi.  `스스로를 소개해보세요.`
-> [Project Git Repository](https://github.com/joi0104)
+#### Choi.  `강의자료 관리 웹페이지....! 제가 쓰려고 만듭니다 ㅎㅎ`
+> [Project Git Repository](https://github.com/joi0104/betteriPad)
   
 
 #### Ham.  `I'm so much slacker!`
