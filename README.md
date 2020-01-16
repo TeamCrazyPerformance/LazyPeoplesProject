@@ -18,4 +18,4 @@
   
 
 #### Ham.  `I'm so much slacker!`
-> [Project Git Repository](https://github.com/net9keep)
+> [Sprint Project](https://github.com/net9keep/Sprint)
