@@ -16,7 +16,7 @@
   
 
 #### Choi.  `객사모들의 코드공유 사이트 SHOWBJECT`
-> [Project Git Repository](https://github.com/joi0104/SHOWBEJCT)
+> [Project Git Repository](https://github.com/joi0104/showbject)
    
 
 #### Ham.  `I'm so much slacker!`
