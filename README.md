@@ -9,7 +9,7 @@
 > [Project: nInsite](https://github.com/creaton60/nInsite)
   
 #### Seo. `Tetris 게임을 'Object'책을 읽으며 객체지향적으로 만들어보는 것을 목표로 하고있습니다.`
-> > [Project Git Repository](https://github.com/)  
+> > [Project Git Repository](https://github.com/taening/Python_Tetris)  
 
 #### Jo.  `개인 블로그 한번 만들어 보려고 합니다.`
 > [Project Git Repository](https://github.com/snustcice/snustcice.github.io)
