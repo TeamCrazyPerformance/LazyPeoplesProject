@@ -8,7 +8,7 @@
 #### Lee.  `카카오페이지 다음웹툰팀에서 k8s 백앤드 개발하는 잡부입니다. 서버 연습겸 만들어 보겠습니다 .`
 > [Project: nInsite](https://github.com/creaton60/nInsite)
   
-#### Seo. `소개`
+#### Seo. `Tetris 게임을 'Object'책을 읽으며 객체지향적으로 만들어보는 것을 목표로 하고있습니다.`
 > > [Project Git Repository](https://github.com/)  
 
 #### Jo.  `개인 블로그 한번 만들어 보려고 합니다.`
